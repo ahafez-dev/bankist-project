@@ -2,6 +2,11 @@
 
 A modern, client-side banking simulation built with **vanilla JavaScript** and a **glassmorphism-inspired UI**. The project focuses on high-performance DOM interactions, clear state management, and a premium user experience—without frameworks—to demonstrate a deep understanding of how the browser works under the hood.
 
+
+![Bankist screenshot](bankist-screenshot.png)
+
+**Live Demo:** (https://ahafez-bankist.netlify.app/)
+
 ---
 
 ## Overview
