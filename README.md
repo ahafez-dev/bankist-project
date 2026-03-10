@@ -1,5 +1,9 @@
 # Bankist – Advanced Fintech Interface
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 A modern, client-side banking simulation built with **vanilla JavaScript** and a **glassmorphism-inspired UI**. The project focuses on high-performance DOM interactions, clear state management, and a premium user experience—without frameworks—to demonstrate a deep understanding of how the browser works under the hood.
 
 
